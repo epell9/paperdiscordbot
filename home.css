@@ -1,0 +1,67 @@
+/* ADD CUSTOM CSS TO THE PAGE - THIS AFFECTS ALL DEVICES */
+*#dm *.dmBody a.span.textonly
+{
+	color:rgb(255,255,255) !important;
+}
+*#dm *.dmBody div.dmform-error
+{
+	font-style:normal !important;
+}
+*#dm *.dmBody div.dmforminput textarea
+{
+	font-style:italic !important;
+}
+*#dm *.dmBody div.dmforminput *.fileUploadLink
+{
+	font-style:italic !important;
+}
+*#dm *.dmBody div.checkboxwrapper span
+{
+	font-style:italic !important;
+}
+*#dm *.dmBody div.radiowrapper span
+{
+	font-style:italic !important;
+}
+*#dm *.dmBody div.u_1471468487
+{
+	background-color:rgba(0,0,0,0) !important;
+}
+*.dmFooterContainer
+{
+	display:none !important;
+}
+*#dm *.dmBody div.u_1957784307 hr
+{
+	border-top-width:1px !important;
+	border-top-style:solid !important;
+	color:rgba(220,220,220,1) !important;
+}
+*#dm *.dmBody a.u_1482132402:hover
+{
+	background-color:rgba(23,86,104,1) !important;
+	background-image:none !important;
+}
+*#dm *.dmBody a.u_1482132402.hover
+{
+	background-color:rgba(23,86,104,1) !important;
+	background-image:none !important;
+}
+*#dm *.dmBody a.u_1482132402:hover span.text
+{
+	color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody a.u_1482132402.hover span.text
+{
+	color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody a.u_1198288688 .iconBg
+{
+	display:none !important;
+}
+*#dm *.dmBody a.u_1198288688
+{
+	border-radius:0px !important;
+	-moz-border-radius:0px !important;
+	-webkit-border-radius:0px !important;
+}
